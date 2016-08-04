@@ -1,0 +1,31 @@
+_repo: Vendetta--A-Story-of-One-Forgotten_4360
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Corelli, Marie
+    aliases:
+    - Corelli, Maria
+    - Mackay, Mary
+    birthdate: 1855
+    deathdate: 1924
+    gutenberg_agent_id: '1321'
+    url: http://www.gutenberg.org/2009/agents/1321
+    wikipedia: http://en.wikipedia.org/wiki/Marie_Corelli
+description: ''
+gutenberg_issued: '2003-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4360'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Vendetta -- Fiction'
+- !lcsh 'Italy -- Fiction'
+- !lcsh 'Adultery -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Revenge -- Fiction'
+- GITenberg
+title: 'Vendetta: A Story of One Forgotten'
+url: http://www.gutenberg.org/ebooks/4360
